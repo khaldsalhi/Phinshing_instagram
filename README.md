@@ -30,7 +30,7 @@ run script in loptop
 
 =================================================================================================================================================================================
 
-# When send u link to the target, target to fill input and press submit:
+# When send ur link to the target, target should be to fill input and press submit:
 
 The image is test how work my script and how to get value password and username 
 این عکس مثاله چطوری رمز یوزرنیم دزدیدم تو عکس می بینید.
