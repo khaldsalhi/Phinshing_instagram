@@ -33,7 +33,7 @@ run script in loptop
 # When send ur link to the target, target should be to fill input and press submit:
 
 The image is test how work my script and how to get value password and username 
-این عکس مثاله چطوری رمز یوزرنیم دزدیدم تو عکس می بینید.
+این عکس مثاله, چطوری رمز یوزرنیم دزدیدم تو عکس می بینید.اگر نفهمیدن واقعا دیگه کصخلین :((((
 
 
 <img width="1220" height="569" alt="Screenshot 2025-09-24 225907" src="https://github.com/user-attachments/assets/588a7ca4-6de4-4ac2-803c-dd6da5f40468" />
@@ -61,6 +61,8 @@ The image is test how work my script and how to get value password and username
 
 
 =================================================================================================================================================================================
+
+
 
 
 # if you can't run the Python script you can message me in Instagram:
