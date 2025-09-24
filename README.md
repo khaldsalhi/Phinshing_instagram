@@ -7,13 +7,15 @@ run script in loptop
 
 
 # give the linke to target when run main.py
+
+وقتی ران کردین تو کادر قرمز کردم اونو بدین واسه اونی که میخاین اکانت انیستاگرام شو هک کنید سورس بخونید سورس بخونید .
 	
 <img width="924" height="193" alt="linke" src="https://github.com/user-attachments/assets/b16c68c8-66e8-4671-9e91-476199ad5f9e" />
 
 
 ========================================================================================================================================================================
 
-# when send u link to target, target to fill input and press submit:
+# When send u link to the target, target to fill input and press submit:
 
 The image is test how work my script and how to get value password and username 
 این عکس مثاله چطوری رمز یوزرنیم دزدیدم تو عکس می بینید.
