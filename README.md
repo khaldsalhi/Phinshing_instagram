@@ -4,9 +4,21 @@ run script in loptop
 
 
 
+
+
+![download](https://github.com/user-attachments/assets/3d14f412-760f-4ea3-8102-23733f89d5ed)
+
+
+
+
+
+
 # how to run script
 
+
  1- python main.py
+
+ 
 =================================================================================================================================================================================
 
 # give the linke to target when run main.py
