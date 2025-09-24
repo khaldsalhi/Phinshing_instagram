@@ -36,7 +36,7 @@ The image is test how work my script and how to get value password and username
 
 # if you can't run the Python script you can message me in Instagram:
 
- https://www.instagram.com/sam_h.c?igsh=MmoxcmlpOWNmYThr
+instagram: https://www.instagram.com/sam_h.c?igsh=MmoxcmlpOWNmYThr
 
- Email:khald6267408@gmail.com
+Email:  khald6267408@gmail.com
 
