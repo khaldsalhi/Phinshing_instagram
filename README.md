@@ -4,4 +4,10 @@ run script in loptop
 
 # how to run scipt
  1- in first make folder name instagram and file index.html and login.php move to folder instagram => dont forget 
- 2- run file main.py 
+	
+
+<img width="811" height="421" alt="Screenshot 2025-09-24 232450" src="https://github.com/user-attachments/assets/7566fcdf-161c-4e2a-b866-2cf6610fabbd" />
+
+
+<img width="1220" height="569" alt="Screenshot 2025-09-24 225907" src="https://github.com/user-attachments/assets/588a7ca4-6de4-4ac2-803c-dd6da5f40468" />
+<img width="1125" height="308" alt="Screenshot 2025-09-24 224707" src="https://github.com/user-attachments/assets/4890cef0-1262-43a7-90ca-8c332a39b53d" />
