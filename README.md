@@ -15,7 +15,7 @@ run script in loptop
 
 # how to run script
 
-
+چون ما ایرانی هستیم باید vpn روشن کنیم بعد ران کنیم سرویسی که استفاده کردیم فیلتر شده باید vpn  روشن کنید بعد ران
  1- python main.py
 
  
